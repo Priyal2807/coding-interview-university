@@ -1050,6 +1050,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - Forking is really copy on write (read-only) until the new process writes to memory, then it does a full copy.
         - Context switching
             - How context switching is initiated by the operating system and underlying hardware
+    - [ ] [Implementing a Mutex](https://github.com/muralisc/codebook/blob/master/lib/mutex.cpp)
+    - [ ] [Atomic Operations in Hardware](https://courses.cs.washington.edu/courses/cse378/07au/lectures/L25-Atomic-Operations.pdf)
     - [ ] [threads in C++ (series - 10 videos)](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M)
     - [ ] concurrency in Python (videos):
         - [ ] [Short series on threads](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVMONJWJkmUh6_p8g4F2oy1)
