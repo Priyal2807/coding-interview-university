@@ -1051,6 +1051,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - Context switching
             - How context switching is initiated by the operating system and underlying hardware
     - [ ] [Implementing a Mutex](https://github.com/muralisc/codebook/blob/master/lib/mutex.cpp)
+    - [ ] [video on race condition](https://www.youtube.com/watch?v=GXXE42bkqQk)
+    - [ ] [semaphore](http://www.csl.mtu.edu/cs4411.choi/www/Resource/Semaphore.pdf)
     - [ ] [Atomic Operations in Hardware](https://courses.cs.washington.edu/courses/cse378/07au/lectures/L25-Atomic-Operations.pdf)
     - [ ] [threads in C++ (series - 10 videos)](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M)
     - [ ] concurrency in Python (videos):
