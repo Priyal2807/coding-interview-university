@@ -972,7 +972,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] iterator
         - [ ] composite
         - [ ] flyweight
-    - [ ] [Chapter 6 (Part 1) - Patterns (video)](https://youtu.be/LAP2A80Ajrg?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO&t=3344)
+    - [x] [Chapter 6 (Part 1) - Patterns (video)](https://youtu.be/LAP2A80Ajrg?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO&t=3344)
     - [ ] [Chapter 6 (Part 2) - Abstraction-Occurrence, General Hierarchy, Player-Role, Singleton, Observer, Delegation (video)](https://www.youtube.com/watch?v=U8-PGsjvZc4&index=12&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
     - [ ] [Chapter 6 (Part 3) - Adapter, Facade, Immutable, Read-Only Interface, Proxy (video)](https://www.youtube.com/watch?v=7sduBHuex4c&index=13&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
     - [ ] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
@@ -1174,9 +1174,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [x] [UDP and TCP: Comparison of Transport Protocols](https://www.youtube.com/watch?v=Vdc8TCESIg8)
     - [x] [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
     - [x] [Packet Transmission across the Internet. Networking & TCP/IP tutorial.](https://www.youtube.com/watch?v=nomyRJehhnM)
-    - [ ] [HTTP](https://www.youtube.com/watch?v=WGJrLqtX7As)
+    - [x] [HTTP](https://www.youtube.com/watch?v=WGJrLqtX7As)
     - [ ] [SSL and HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
-    - [ ] [SSL/TLS](https://www.youtube.com/watch?v=Rp3iZUvXWlM)
+    - [x] [SSL/TLS](https://www.youtube.com/watch?v=Rp3iZUvXWlM)
     - [ ] [HTTP 2.0](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
     - [ ] [Video Series (21 videos)](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
     - [ ] [Subnetting Demystified - Part 5 CIDR Notation](https://www.youtube.com/watch?v=t5xYI0jzOf4)
